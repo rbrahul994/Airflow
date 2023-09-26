@@ -13,9 +13,7 @@ Here's why:
 
 ### Built With
 
-Framework or tools required to build this dasboard.
-
-* Power Bi
+Airflow and Python 3.7
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -31,10 +29,10 @@ System capable of running docker and mutiple containers.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get Power Bi desktop app for your operating system [https://powerbi.microsoft.com/en-au/desktop/](https://powerbi.microsoft.com/en-au/desktop/)
-2. Clone the repo
+
+1. Clone the repo
    ```sh
-   git clone https://github.com/rbrahul994/Cookie-Profit-BI.git
+   git clone https://github.com/rbrahul994/Airflow.git
    ```
 
 <!-- USAGE EXAMPLES 
